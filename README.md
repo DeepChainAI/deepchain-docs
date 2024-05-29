@@ -1,16 +1,17 @@
-# Polygon Knowledge Layer
+# Limitless Knowledge Layer
 
-Welcome to the Polygon Knowledge Layer.
+This text updates the original README to indicate that the documentation is under development and includes an overview of the new sections related to LimitlessLedger and DeepChain.
 
-These docs use [the Material theme for MkDocs](https://squidfunk.github.io/mkdocs-material/). Our goal is to establish a high-quality, curated, and comprehensive "source of truth" for Polygon's technology. 
+These docs use the Material theme for MkDocs. 
 
-This includes sections on:
+Our goal is to provide a high-quality, comprehensive, and user-friendly source of truth for LimitlessLedger's technology, including our innovative AI-powered rollup solution, DeepChain.
 
-- Polygon CDK
-- Polygon zkEVM
-- Polygon PoS
-- Polygon Miden
-- Developer tools 
+- This documentation includes sections on:
+- DeepChain Overview
+- LimitlessLedger CDK Integration
+- zkEVM
+- Developer Tools
+- Running Locally
 
 ## Run locally
 
@@ -69,8 +70,3 @@ docker compose up
 - For docs issues (technical or language) open an issue here.
 - For technical issues with the software, either raise an issue here and we will follow up, or check https://support.polygon.technology/support/home. 
 
-## The team
-
-- Anthony Matlala (@EmpieichO)
-- Katharine Murphy (@kmurphypolygon)
-- Hans (@hsutaiyu) 
